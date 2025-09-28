@@ -1,0 +1,4 @@
+model_name = "Babelscape/rebel-large"
+
+!pip install --upgrade transformers
+!pip install transformers bertviz
