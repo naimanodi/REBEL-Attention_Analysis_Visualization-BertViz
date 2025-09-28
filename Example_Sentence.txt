@@ -1,0 +1,54 @@
+Group 1 (Sentences with varried structures):
+1.	Barack Obama was born in Honolulu. (Simple sentence with one possible relation)
+2.	Barack Obama was born in Honolulu and served as the 44th President of the United States. (Conjunction with “And”, at least two possible relations)
+3.	Barack Obama was born in Honolulu, married to Michelle Obama and served as the 44th President of the United States. (Complex sentences with more than two possible relations)
+
+4.	Isaac Newton formulated the law of gravity.
+5.	Isaac Newton formulated the law of gravity and developed calculus.
+6.	Isaac Newton formulated the law of gravity, developed calculus, and became President of the Royal Society. 
+
+7.	Frida Kahlo was born in Mexico City.
+8.	Frida Kahlo was born in Mexico City and became a renowned painter. 
+9.	Frida Kahlo was born in Mexico City and became a renowned painter, however suffered from lifelong health issues. 
+
+10.	Albert Einstein was born in Ulm, Germany. 
+11.	Albert Einstein was born in Ulm, Germany and developed the theory of relativity. 
+12.	Albert Einstein was born in Ulm, Germany, worked at the Swiss Patent Office, and developed the theory of relativity. 
+
+13.	Nelson Mandela spent 27 years in prison. 
+14.	Nelson Mandela spent 27 years in prison and became President of South Africa. 
+15.	Nelson Mandela spent 27 years in prison, became President of South Africa, and won the Nobel Peace Prize. 
+
+16.	Jane Austen wrote Pride and Prejudice. 
+17.	Jane Austen wrote Pride and Prejudice and lived in England. 
+18.	Jane Austen wrote Pride and Prejudice, lived in England, and influenced English literature profoundly. 
+
+	
+Group 2 (Simple sentence structure for voice variation):
+1.	Steve Jobs founded Apple. (Active sentence with one possible relation)
+2.	Apple was founded by Steve Jobs. (Passive form of the sentence with one possible relation)
+
+3.	Thomas Edison invented the phonograph. 
+4.	The phonograph was invented by Thomas Edison. 
+
+5.	Alexander Fleming discovered penicillin. 
+6.	Penicillin was discovered by Alexander Fleming. 
+
+7.	The Wright brothers built the first airplane. 
+8.	The first airplane was built by the Wright brothers. 
+
+9.	Wolfgang Amadeus Mozart composed The Magic Flute. 
+10.	The Magic Flute was composed by Wolfgang Amadeus Mozart. 
+
+11.	Galileo Galilei improved the telescope.
+12.	The telescope was improved by Galileo Galilei. 
+
+
+Group 3 (Semantically Incorrect Simple Sentences):
+1.	Steve Jobs founded the Nile River. (Simple sentence, but semantically incorrect)
+2.	Napoleon Bonaparte discovered the Internet.
+3.	William Shakespeare built the Great Wall of China. 
+4.	Cleopatra invented the steam engine.
+5.	Christopher Columbus painted the Sistine Chapel ceiling.
+6.	Albert Einstein composed Beethoven’s Ninth Symphony. 
+
