@@ -1,0 +1,50 @@
+Group 1		
+Sentence	Entity Focus Ratio (EFR)	Relation Focus Ratio (RFR)
+Barack Obama was born in Honolulu.	0.0892	0.9108
+Barack Obama was born in Honolulu and served as the 44th President of the United States.	0.0468	0.9532
+Barack Obama was born in Honolulu, married to Michelle Obama and served as the 44th President of the United States.	0.0771	0.9229
+		
+Isaac Newton formulated the law of gravity.	0.13135	0.86865
+Isaac Newton formulated the law of gravity and developed calculus.	0.1167	0.8833
+Isaac Newton formulated the law of gravity, developed calculus, and became President of the Royal Society.	0.13076	0.86924
+		
+Frida Kahlo was born in Mexico City.	0.13528	0.86472
+Frida Kahlo was born in Mexico City and became a renowned painter.	0.124	0.876
+Frida Kahlo was born in Mexico City and became a renowned painter, however suffered from lifelong health issues.	0.11545	0.88455
+		
+Albert Einstein was born in Ulm, Germany.	0.12	0.88
+Albert Einstein was born in Ulm, Germany and developed the theory of relativity.	0.12587	0.87413
+Albert Einstein was born in Ulm, Germany, worked at the Swiss Patent Office, and developed the theory of relativity.	0.1154	0.8846
+		
+Nelson Mandela spent 27 years in prison.	0.2036	0.7964
+Nelson Mandela spent 27 years in prison and became President of South Africa.	0.13852	0.86148
+Nelson Mandela spent 27 years in prison, became President of South Africa, and won the Nobel Peace Prize.	0.10343	0.89657
+		
+Jane Austen wrote Pride and Prejudice.	0.2082	0.7918
+Jane Austen wrote Pride and Prejudice and lived in England.	0.18473	0.81527
+Jane Austen wrote Pride and Prejudice, lived in England, and influenced English literature profoundly.	0.17676	0.82324
+Group 2		
+Steve Jobs founded Apple.	0.09366	0.90634
+Apple was founded by Steve Jobs.	0.10296	0.89704
+		
+Thomas Edison invented the phonograph.	0.09478	0.90522
+The phonograph was invented by Thomas Edison.	0.1033	0.8967
+		
+Alexander Fleming discovered penicillin.	0.14	0.86
+Penicillin was discovered by Alexander Fleming.	0.126679	0.873321
+		
+The Wright brothers built the first airplane.	0.115797	0.884203
+The first airplane was built by the Wright brothers.	0.0778	0.9222
+		
+Wolfgang Amadeus Mozart composed The Magic Flute.	0.244	0.756
+The Magic Flute was composed by Wolfgang Amadeus Mozart.	0.190975	0.809025
+		
+Galileo Galilei improved the telescope.	0.087	0.913
+The telescope was improved by Galileo Galilei.	0.134159	0.865841
+Group 3		
+Steve Jobs founded the Nile River.	0.0979	0.9021
+Napoleon Bonaparte discovered the Internet.	0.133125	0.866875
+William Shakespeare built the Great Wall of China.	0.15376	0.84624
+Cleopatra invented the steam engine.	0.1186	0.8814
+Christopher Columbus painted the Sistine Chapel ceiling.	0.16255	0.83745
+Albert Einstein composed Beethoven’s Ninth Symphony.	0.16578	0.83422
